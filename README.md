@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shhang
-- 👀 I’m interested in Data Analytics/Data Science
+- 👀 I’m interested in Business/Data Analytics or Data Science for finance, operations and marketing
 - 🌱 I’m currently learning SQL, Python, Git
 - 💞️ I’m looking to collaborate on data analytic projects
 - 📫 How to reach me ...
